@@ -4,6 +4,6 @@
 void myPrintHelloMake(void)
 {
  printf("Hello makefiles!\n");
- printf("This is my first c program\n");
+ printf("This is my first c program..\n");
  return;
 }
